@@ -9,7 +9,9 @@ A CPE package consists of manifest file(s) which power the Cross Platform Extras
     - This essentially is a catch-all when adding features outside CPE Manifest's default support. It's currently mainly being used for scene location data.
 
 - http://www.movielabs.com/cpe/appearance/
-    - This configures experience UI elements including safe zones, colors, etc.  
+    - This configures experience UI elements including safe zones, colors, etc. 
+
+
 The library will take a valid CPE Manifest v1.5 IP1 file and will render the CPE/NextGen Extras interface. 
  
 
