@@ -1,4 +1,4 @@
 # Warner Bros. Entertainment Inc. - GitHub
 
 ## Cross Platform Extras (NextGen Extras)
-* [Getting started documentation](README_CPE_SDK.md)
+* [Getting started documentation](CPE_Manifest_SDK.md)

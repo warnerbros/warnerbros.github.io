@@ -12,13 +12,16 @@ A CPE package consists of manifest file(s) which power the Cross Platform Extras
     - This configures experience UI elements including safe zones, colors, etc.  
 The library will take a valid CPE Manifest v1.5 IP1 file and will render the CPE/NextGen Extras interface. 
  
+
 ## Open-Source Mobile Libraries
 We also have an open-source library which helps power this experience. The library is released under an Apache 2.0 license which makes it fully open to utilize as you wish. 
- 
+
+
 ### iOS:
 - [Native data binding object generator from the CPE manifest spec](https://github.com/warnerbros/cpe-manifest-ios-data)
 - [iOS Swift codebase which runs the CPE Experience](https://github.com/warnerbros/cpe-manifest-ios-experience)
- 
+
+
 ### Android:
 - [Android codebase](https://github.com/warnerbros/cpe-manifest-android-experience)
  
