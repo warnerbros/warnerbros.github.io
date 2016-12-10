@@ -14,7 +14,7 @@ The library will take a valid CPE Manifest v1.5 IP1 file and will render the C
  
 
 ## Open-Source Mobile Libraries
-We also have an open-source library which helps power this experience. The library is released under an Apache 2.0 license which makes it fully open to utilize as you wish. 
+We also have an open-source library which helps power this experience. The library is released under an Apache 2.0 license.
 
 
 ### iOS:
