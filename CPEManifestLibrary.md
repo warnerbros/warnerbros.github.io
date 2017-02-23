@@ -1,5 +1,5 @@
 # Overview
-NextGen EST is a whole new way to watch media. Users can experience synced features, get exclusive content,  discover scene locations, share clips with friends, and more. This library facilitates the deployment of the NextGen EST in an implementor's iOS & Android app.
+NextGen Extras is a whole new way to watch media. Users can experience synced features, get exclusive content,  discover scene locations, share clips with friends, and more. This library facilitates the deployment of the NextGen Extras in an implementor's iOS & Android app.
 
 ## Cross Platform Extras
 http://movielabs.com/cpe/index.html 
