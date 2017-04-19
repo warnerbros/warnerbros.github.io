@@ -1,4 +1,1 @@
-# Warner Bros. Entertainment Inc. - GitHub
-
-## Cross Platform Extras (NextGen Extras)
-* [Getting started documentation](CPEManifestLibrary.md)
+Repository for pages available at [https://warnerbros.github.io](https://warnerbros.github.io/)
